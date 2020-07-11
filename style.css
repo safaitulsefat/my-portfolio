@@ -1,0 +1,68 @@
+.name-highlight{
+    color: orange;
+}
+
+
+.half-width{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+img{
+    width: 60%;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    width: 20px;
+    background-color: crimson;
+    font-weight: 700;
+    color: darkgrey;
+}
+.first{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background: url(personal-website/header-bg.png);
+}
+.second{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background: url(personal-website/biography-bg.png);
+}
+.work{
+    position: relative;
+    width: 25%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.third{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background:url(personal-website/latest-work-bg.png);
+    
+}
+.forth{
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background: url(personal-website/footer-bg.png);
+}
+#latest{
+    text-align: center;
+}
+.foter{
+    text-align: center;
+}
+button{
+    padding: 10px 40px;
+    background-color: crimson;
+    font-size: 30px;
+    color: darkgrey;
+}
